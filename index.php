@@ -1,3 +1,3 @@
 <?php
 
-echo "Welcome to Life Science. Enjoy!!!";
+echo "Welcome to Life Maths. Enjoy!!!";
