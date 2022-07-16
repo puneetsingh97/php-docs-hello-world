@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Welcome to Life Science. Enjoy!!!";
